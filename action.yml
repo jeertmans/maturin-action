@@ -1,4 +1,4 @@
-name: 'maturin-action'
+name: 'maturin-action-modified'
 description: 'GitHub Action to install and run a custom maturin command'
 author: messense
 
